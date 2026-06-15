@@ -1,0 +1,6 @@
+{
+  "name": "WrestleGM",
+  "description": "Football Manager style sports management simulator for wrestling promotions. Control your roster, sign free agents, book weekly events, read inbox reports, and manage financial balance sheets in a data-dense, serious aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

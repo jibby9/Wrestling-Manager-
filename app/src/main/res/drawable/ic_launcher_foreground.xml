@@ -1,0 +1,32 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Left Belt Strap Wing (Muted Gold) -->
+    <path
+        android:fillColor="#81692E"
+        android:pathData="M16,50 L36,43 L36,65 L16,58 Z" />
+        
+    <!-- Right Belt Strap Wing (Muted Gold) -->
+    <path
+        android:fillColor="#81692E"
+        android:pathData="M92,50 L72,43 L72,65 L92,58 Z" />
+
+    <!-- Medallion Outlay Shading Ring -->
+    <path
+        android:fillColor="#DFB13C"
+        android:pathData="M54,26 C38.54,26 26,38.54 26,54 C26,69.46 38.54,82 54,82 C69.46,82 82,69.46 82,54 C82,38.54 69.46,26 54,26 Z" />
+
+    <!-- Medallion Inner Slate Dark Core -->
+    <path
+        android:fillColor="#161A21"
+        android:pathData="M54,32 C41.85,32 32,41.85 32,54 C32,66.15 41.85,76 54,76 C66.15,76 76,66.15 76,54 C76,41.85 66.15,32 54,32 Z" />
+
+    <!-- Medallion Gold Star of Championship (Center 5-Point Star) -->
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M54,38 L58.4,47.4 L68.8,48.8 L61.2,56 L63.2,66.4 L54,61.4 L44.8,66.4 L46.8,56 L39.2,48.8 L49.6,47.4 Z" />
+        
+</vector>
